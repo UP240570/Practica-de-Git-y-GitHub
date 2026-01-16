@@ -1,1 +1,4 @@
-//Hola este es mi primer archivo en Java
+//Mi primer programa en Java
+public class index {
+    
+}
